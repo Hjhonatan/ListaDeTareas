@@ -12,9 +12,8 @@ Este proyecto es una aplicación para gestionar tareas diarias. Permite agregar,
 
 ## Tecnologías utilizadas
 
-- **Lenguaje de programación**: *(Indicar lenguaje aquí, por ejemplo: JavaScript, Python, etc.)*
-- **Framework o Librería**: *(Especificar si aplica, como React, Angular, etc.)*
-- **Base de datos**: *(Indicar la base de datos si se usa alguna, como SQLite, MongoDB, etc.)*
+- **Lenguaje de programación**: *(Javascript, Html5, Css)*
+
 
 ## Instalación y ejecución
 
