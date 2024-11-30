@@ -40,19 +40,4 @@ Abre la aplicación.
 Gestiona tus tareas utilizando la interfaz para agregar, editar, completar o eliminar tareas.
 Mantén un registro organizado de tus actividades.
 Contribución
-Si deseas contribuir al proyecto:
 
-Realiza un fork del repositorio.
-Crea una rama nueva para tus cambios:
-bash
-Copiar código
-git checkout -b nombre-de-tu-rama
-Haz tus cambios y crea un commit:
-bash
-Copiar código
-git commit -m "Descripción de los cambios"
-Envía tus cambios al repositorio remoto:
-bash
-Copiar código
-git push origin nombre-de-tu-rama
-Abre un Pull Request en GitHub.
